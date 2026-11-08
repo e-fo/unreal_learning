@@ -1,0 +1,13 @@
+# Unreal Engine build output, caches, and editor state
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/**/Intermediate/
+/Plugins/**/DerivedDataCache/
+
+# Generated Visual Studio files and local settings
+/.vs/
+/*.sln
+*.suo
+*.user
